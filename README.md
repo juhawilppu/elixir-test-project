@@ -2,7 +2,7 @@
 
 **Let's learn some Elixir. Coding along Stephen Grider's Elixir course + some own attempts.**
 
-## Prerequisities
+## Prerequisites
 Install Elixir. For macOS:
 ```
 brew install elixir

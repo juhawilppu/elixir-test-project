@@ -1,6 +1,29 @@
-# Cards
+# elixir-test-project
 
-**TODO: Add description**
+**Let's learn some Elixir. Coding along Stephen Grider's Elixir course + some own attempts.**
+
+## Prerequisities
+Install Elixir. For macOS:
+```
+brew install elixir
+```
+
+## How to run unit tests
+```
+mix test
+```
+
+## How to run application
+
+```
+iex -S mix
+
+# Create a card deck
+Cards.create_deck
+
+# Generate an identicon with the seed "juha"
+Identicon.main("juha")
+```
 
 ## Installation
 
